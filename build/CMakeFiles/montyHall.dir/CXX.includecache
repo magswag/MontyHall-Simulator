@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/magnusran/OneDrive - Viken fylkeskommune/IT/Monty Hall cpp/main.cpp
+iostream
+-
+random
+-
+vector
+-
+thread
+-
+future
+-
+chrono
+-
+

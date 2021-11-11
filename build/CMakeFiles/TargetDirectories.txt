@@ -1,0 +1,3 @@
+C:/Users/magnusran/OneDrive - Viken fylkeskommune/IT/Monty Hall cpp/build/CMakeFiles/rebuild_cache.dir
+C:/Users/magnusran/OneDrive - Viken fylkeskommune/IT/Monty Hall cpp/build/CMakeFiles/montyHall.dir
+C:/Users/magnusran/OneDrive - Viken fylkeskommune/IT/Monty Hall cpp/build/CMakeFiles/edit_cache.dir
